@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-My name is Havish Netla, I am a sophmore at Georgia Tech studying Computer Science.
+My name is Havish Netla, I computer science student at Georgia Tech.
 - [Website](https://havish.dev/)
-- [Twitter](https://twitter.com/netlahavish)
-- [Linkedin](https://www.linkedin.com/in/havish-netla-1bb534192/)
+ - [Linkedin](https://www.linkedin.com/in/havish-netla-1bb534192/)
